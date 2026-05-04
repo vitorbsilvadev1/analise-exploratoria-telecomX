@@ -12,7 +12,7 @@ O objetivo desta análise é identificar os padrões de comportamento que levam 
 
 * **Fator de Blindagem:** Clientes de fibra ótica com serviços de suporte e segurança integrados podem cancelar significativamente menos dos que aqueles que não tem. A proteção técnica atua como uma prevenção de estresse, principalmente a quem não tem facilidade com tecnologia (como o público idoso).
 
-* **Vulnerabilidade Operacional**: Identificamos que uma parcela significativa do faturamento provém de clientes com baixo vínculo contratual (mensal) e métodos de pagamento manuais. Converter esses perfis para modelos de fidelidade não é apenas uma medida defensiva, mas uma estratégia para maximizar o LTV (Lifetime Value), garantindo que a receita em risco se transforme em capital previsível para o crescimento da empresa.
+* **Vulnerabilidade Operacional**: Identifiquei que uma parcela significativa do faturamento provém de clientes com baixo vínculo contratual (mensal) e métodos de pagamento manuais. Converter esses perfis para modelos de fidelidade não é apenas uma medida defensiva, mas uma estratégia para maximizar o LTV (Lifetime Value), garantindo que a receita em risco se transforme em capital previsível para o crescimento da empresa.
 
 [mais detalhes no relatório final do notebook]
 
